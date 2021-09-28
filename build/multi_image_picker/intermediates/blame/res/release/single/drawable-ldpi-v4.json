@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_photo_white_24dp.png",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\54772ea317be796a4dc86a135b07c0a7\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_photo_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_add_a_photo_white_24dp.png",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\54772ea317be796a4dc86a135b07c0a7\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_add_a_photo_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_photo_library_gray_100dp.png",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\54772ea317be796a4dc86a135b07c0a7\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_photo_library_gray_100dp.png"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_done_all_white_24dp.png",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\54772ea317be796a4dc86a135b07c0a7\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_done_all_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_done_white_24dp.png",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\54772ea317be796a4dc86a135b07c0a7\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_done_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_arrow_back_white_24dp.png",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\54772ea317be796a4dc86a135b07c0a7\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_add_a_photo_gray_100dp.png",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\54772ea317be796a4dc86a135b07c0a7\\jetified-FishBun-0.11.2\\res\\drawable-ldpi-v4\\ic_add_a_photo_gray_100dp.png"
+    }
+]

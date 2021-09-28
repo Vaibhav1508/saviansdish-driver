@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\interpolator\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\interpolator\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\interpolator\\mtrl_linear.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\interpolator\\mtrl_linear.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\interpolator\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\interpolator\\mtrl_fast_out_slow_in.xml"
+    }
+]

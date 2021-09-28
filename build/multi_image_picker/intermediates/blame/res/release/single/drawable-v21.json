@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\54bb4d5f8f11b3b439512e92e0e1760e\\appcompat-1.0.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\54bb4d5f8f11b3b439512e92e0e1760e\\appcompat-1.0.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\288a2aa6d34e146dee373b96e158a22e\\core-1.1.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\54bb4d5f8f11b3b439512e92e0e1760e\\appcompat-1.0.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\54bb4d5f8f11b3b439512e92e0e1760e\\appcompat-1.0.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\54bb4d5f8f11b3b439512e92e0e1760e\\appcompat-1.0.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\drawable-v21\\avd_show_password.xml"
+    }
+]

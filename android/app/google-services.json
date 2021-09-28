@@ -1,0 +1,84 @@
+{
+	"project_info": {
+		"project_number": "973899402246",
+		"project_id": "hempire-delivery-app",
+		"storage_bucket": "hempire-delivery-app.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:973899402246:android:92db63b637ec419db10787",
+				"android_client_info": {
+					"package_name": "com.saviansdish.delivery"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "973899402246-943l6lpl9p00mubvam6j15vif8lbshi5.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.saviansdish.delivery",
+						"certificate_hash": "4a5ca489b5744ec614e687bf129145106b626120"
+					}
+				},
+				{
+					"client_id": "973899402246-e4ktsu81fcso78c4aok4ojs8elk69f0c.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyABUeRO2rsfdWkAGsCCZ6ZxhpMteglbFl0"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "973899402246-e4ktsu81fcso78c4aok4ojs8elk69f0c.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				}
+			}
+		},
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:973899402246:android:a65f14e5f9a89131b10787",
+				"android_client_info": {
+					"package_name": "com.venerdi.food"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "973899402246-9i8d3d133f5v3j1pmrgq7dual43qabr1.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.venerdi.food",
+						"certificate_hash": "19acefb5d1c0e4a6731f6fdf81b7f386ed72f909"
+					}
+				},
+				{
+					"client_id": "973899402246-e4ktsu81fcso78c4aok4ojs8elk69f0c.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyABUeRO2rsfdWkAGsCCZ6ZxhpMteglbFl0"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "973899402246-e4ktsu81fcso78c4aok4ojs8elk69f0c.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}

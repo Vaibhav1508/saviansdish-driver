@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_btn_state_list_anim.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\animator\\mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\animator\\mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\design_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\animator\\design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_chip_state_list_anim.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\animator\\mtrl_chip_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\design_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\animator\\design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\nw_delivery\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\38ea247f0fbadfc49aadf35f07054a46\\material-1.0.0\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
+    }
+]
